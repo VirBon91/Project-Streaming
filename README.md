@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/discordjs/docs/main/static/discord-js-logo.png" alt="Logo" width="100" />
   <h1>📺 Discord Stream Status Customizer</h1>
   <p>A lightweight Node.js utility designed to set a permanent 'Streaming' status on your Discord profile.</p>
 
